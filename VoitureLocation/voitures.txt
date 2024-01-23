@@ -1,0 +1,18 @@
+Code: EE-61433
+Marque: honda
+Modeles: accord
+Nombre de cylindres: 8 cylindres
+Prix: 900000.0 Gourdes
+
+Code: RR-33786
+Marque: ford
+Modeles: focus
+Nombre de cylindres: 9 cylindres
+Prix: 98722.0 Gourdes
+
+Code: AA-80168
+Marque: toyota
+Modeles: camry
+Nombre de cylindres: 8 cylindres
+Prix: 234500.0 Gourdes
+
