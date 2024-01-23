@@ -1,0 +1,76 @@
+Nom..............: nelson
+Prenom...........: benito
+Numero d'ordre...: 0300003361
+Age..............: 23 ans
+Notes pour Mathematiques....: 300
+Notes pour Philosophie......: 300
+Notes pour Sciences Sociales: 300
+Matiere 4: 50
+Matiere 5: 50
+Matiere 6: 50
+Matiere 7: 90
+Matiere 8: 34
+Matiere 9: 32
+Matiere 10: 45
+	Somme des notes..: 1251 sur 2600 points
+	Moyenne: 4.800000000000001
+	Statut.: ajourne
+
+Nom..............: b
+Prenom...........: v
+Numero d'ordre...: 0300001443
+Age..............: 45 ans
+Notes pour Mathematiques....: 123
+Notes pour Philosophie......: 234
+Notes pour Sciences Sociales: 43
+Matiere 4: 78
+Matiere 5: 54
+Matiere 6: 43
+Matiere 7: 67
+Matiere 8: 89
+Matiere 9: 100
+Matiere 10: 200
+	Somme des notes..: 1031 sur 2600 points
+	Moyenne: 0.0
+	Statut.: echoue
+
+Nom..............: nelson
+Prenom...........: benito
+Numero d'ordre...: 0300008253
+Age..............: 35 ans
+Notes pour Mathematiques....: 100
+Notes pour Philosophie......: 100
+Notes pour Sciences Sociales: 100
+Matiere 4: 100
+Matiere 5: 100
+Matiere 6: 100
+Matiere 7: 200
+Matiere 8: 200
+Matiere 9: 200
+Matiere 10: 100
+	Somme des notes..: 1300 sur 2600 points
+	Moyenne: 5.0
+	Statut.: admis
+
+le/la candidat.e NELSON benito, identifié.e au numéro d'ordre 0300000835
+à la session unique des examens du bac :
+
+Nom..............: nelson
+Prenom...........: benito
+Numero d'ordre...: 0300000835
+Age..............: 25 ans
+Notes pour Mathematiques....: 400
+Notes pour Philosophie......: 200
+Notes pour Sciences Sociales: 200
+Matiere 4: 123
+Matiere 5: 145
+Matiere 6: 900
+Matiere 7: 2
+Matiere 8: 3
+Matiere 9: 4
+Matiere 10: 0
+
+	Somme des notes..: 1977 sur 2600 points
+	Moyenne: 7.6000000000000005
+	Statut.: admis
+

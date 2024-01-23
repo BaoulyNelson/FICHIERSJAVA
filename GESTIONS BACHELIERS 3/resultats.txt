@@ -1,0 +1,69 @@
+le/la candidat.e NELSON baouly, identifié.e au numéro d'ordre 0300007306
+à la session unique des examens du bac :
+
+Matricule...: 0300007306
+Nom.........: nelson
+Prenom......: baouly
+Telephone...: +50997417097
+Age.........: 22 ans
+Matiere 1...:123
+Matiere 2...:45
+Matiere 3...:66
+Matiere 4...:77
+Matiere 5...:200
+Matiere 6...:89
+Matiere 7...:100
+Matiere 8...:200
+Matiere 9...:200
+Matiere 10...:134
+
+	Total : 1234 points sur 2600
+	Moyenne : 4.746153846153846 sur 10
+	Mention : ajourne
+
+le/la candidat.e LOUIS ducnes, identifié.e au numéro d'ordre 0300002301
+à la session unique des examens du bac :
+
+Matricule...: 0300002301
+Nom.........: louis
+Prenom......: ducnes
+Telephone...: +50940265301
+Age.........: 78 ans
+Matiere 1...:400
+Matiere 2...:400
+Matiere 3...:400
+Matiere 4...:100
+Matiere 5...:50
+Matiere 6...:50
+Matiere 7...:50
+Matiere 8...:40
+Matiere 9...:50
+Matiere 10...:50
+
+	Total : 1590 points sur 2600
+	Moyenne : 6.115384615384616 sur 10
+	Mention : admis
+
+le/la candidat.e TOOT aya, identifié.e au numéro d'ordre 0300009483
+à la session unique des examens du bac :
+
+Matricule...: 0300009483
+Nom.........: toot
+Prenom......: aya
+Telephone...: +50943370219
+Age.........: 89 ans
+Matiere 1...:90
+Matiere 2...:90
+Matiere 3...:90
+Matiere 4...:100
+Matiere 5...:100
+Matiere 6...:20
+Matiere 7...:87
+Matiere 8...:100
+Matiere 9...:100
+Matiere 10...:5
+
+	Total : 782 points sur 2600
+	Moyenne : 3.0076923076923077 sur 10
+	Mention : echoue
+

@@ -1,0 +1,138 @@
+le/la candidat.e BAOULY phliipe, identifié.e au numéro d'ordre 0300000533
+à la session unique des examens du bac :
+
+Matricule>>>>>>>>>: 0300000533
+Nom>>>>>>>>>>>>>>>: baouly
+Prenom>>>>>>>>>>>>: phliipe
+Telephone>>>>>>>>>: +50942167608
+Age-->>>>>>>>>>>>>: 32 ans
+Mathématiques>>>>>: 400
+Philosophie>>>>>>>: 400
+Sciences Sociales>: 400
+Autre Matiere 1...: 100
+Autre Matiere 2...: 200
+Autre Matiere 3...: 50
+Autre Matiere 4...: 50
+Autre Matiere 5...: 43
+Autre Matiere 6...: 67
+Autre Matiere 7...: 77
+
+	Total : 1787 points sur 2600 
+	Moyenne : 6.873076923076923 sur 10
+	Mention : Admis
+
+le/la candidat.e LENZ baptiste, identifié.e au numéro d'ordre 0300008309
+à la session unique des examens du bac :
+
+Matricule>>>>>>>>>: 0300008309
+Nom>>>>>>>>>>>>>>>: lenz
+Prenom>>>>>>>>>>>>: baptiste
+Telephone>>>>>>>>>: +50990336267
+Age-->>>>>>>>>>>>>: 89 ans
+Mathématiques>>>>>: 200
+Philosophie>>>>>>>: 200
+Sciences Sociales>: 32
+Autre Matiere 1...: 44
+Autre Matiere 2...: 200
+Autre Matiere 3...: 100
+Autre Matiere 4...: 200
+Autre Matiere 5...: 21
+Autre Matiere 6...: 44
+Autre Matiere 7...: 66
+
+	Total : 1107 points sur 2600 
+	Moyenne : 4.257692307692308 sur 10
+	Mention : Ajourne
+
+le/la candidat.e ELIENNE dossous, identifié.e au numéro d'ordre 0300004145
+à la session unique des examens du bac :
+
+Matricule>>>>>>>>>: 0300004145
+Nom>>>>>>>>>>>>>>>: elienne
+Prenom>>>>>>>>>>>>: dossous
+Telephone>>>>>>>>>: +50947742339
+Age-->>>>>>>>>>>>>: 90 ans
+Mathématiques>>>>>: 200
+Philosophie>>>>>>>: 123
+Sciences Sociales>: 234
+Autre Matiere 1...: 43
+Autre Matiere 2...: 65
+Autre Matiere 3...: 78
+Autre Matiere 4...: 98
+Autre Matiere 5...: 123
+Autre Matiere 6...: 43
+Autre Matiere 7...: 56
+
+	Total : 1063 points sur 2600 
+	Moyenne : 4.088461538461539 sur 10
+	Mention : Echoue
+
+le/la candidat.e BETY sanon, identifié.e au numéro d'ordre 0300005342
+à la session unique des examens du bac :
+
+Matricule>>>>>>>>>: 0300005342
+Nom>>>>>>>>>>>>>>>: bety
+Prenom>>>>>>>>>>>>: sanon
+Telephone>>>>>>>>>: +50959738865
+Age-->>>>>>>>>>>>>: 43 ans
+Mathématiques>>>>>: 345
+Philosophie>>>>>>>: 342
+Sciences Sociales>: 234
+Autre Matiere 1...: 30
+Autre Matiere 2...: 23
+Autre Matiere 3...: 33
+Autre Matiere 4...: 54
+Autre Matiere 5...: 67
+Autre Matiere 6...: 89
+Autre Matiere 7...: 90
+
+	Total : 1307 points sur 2600 
+	Moyenne : 5.026923076923077 sur 10
+	Mention : Admis
+
+le/la candidat.e EVENS louis, identifié.e au numéro d'ordre 0300002866
+à la session unique des examens du bac :
+
+Matricule>>>>>>>>>: 0300002866
+Nom>>>>>>>>>>>>>>>: evens
+Prenom>>>>>>>>>>>>: louis
+Telephone>>>>>>>>>: +50944205668
+Age-->>>>>>>>>>>>>: 34 ans
+Mathématiques>>>>>: 400
+Philosophie>>>>>>>: 400
+Sciences Sociales>: 400
+Autre Matiere 1...: 200
+Autre Matiere 2...: 200
+Autre Matiere 3...: 200
+Autre Matiere 4...: 200
+Autre Matiere 5...: 100
+Autre Matiere 6...: 100
+Autre Matiere 7...: 100
+
+	Total : 2300 points sur 2600 
+	Moyenne : 8.846153846153847 sur 10
+	Mention : Admis
+
+le/la candidat.e LENZ baptiste, identifié.e au numéro d'ordre 0300008309
+à la session unique des examens du bac :
+
+Matricule>>>>>>>>>: 0300008309
+Nom>>>>>>>>>>>>>>>: lenz
+Prenom>>>>>>>>>>>>: baptiste
+Telephone>>>>>>>>>: +50990336267
+Age-->>>>>>>>>>>>>: 89 ans
+Mathématiques>>>>>: 200
+Philosophie>>>>>>>: 200
+Sciences Sociales>: 32
+Autre Matiere 1...: 44
+Autre Matiere 2...: 200
+Autre Matiere 3...: 100
+Autre Matiere 4...: 200
+Autre Matiere 5...: 21
+Autre Matiere 6...: 44
+Autre Matiere 7...: 66
+
+	Total : 1107 points sur 2600 
+	Moyenne : 4.257692307692308 sur 10
+	Mention : Ajourne
+

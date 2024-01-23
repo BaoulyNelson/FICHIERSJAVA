@@ -1,0 +1,23 @@
+le/la candidat.e NELSON benito, identifié.e au numéro d'ordre 300009086
+à la session unique des examens du bac :
+
+Matricule: 300009086
+Nom: NELSON
+Prenom: benito
+Telephone: +50956016824
+Age: 34 ans
+Matieres:
+- Espagnol (sur 200).........: 55.0
+- Mathematiques (sur 400)....: 34.0
+- Sciences sociales (sur 400): 66.0
+- Biologie (sur 200).........: 66.0
+- Creole (sur 200)...........: 77.0
+- Economie (sur 200).........: 21.0
+- Philosophie (sur 400)......: 56.0
+- Physique (sur 200).........: 78.0
+- Anglais (sur 200)..........: 23.0
+- Chimie (sur 200)...........: 43.0
+
+	Total: 519 points sur 2600
+	Moyenne: 1.9 sur 10
+	Statut: Echoue
