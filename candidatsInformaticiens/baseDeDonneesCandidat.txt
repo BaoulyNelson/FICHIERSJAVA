@@ -1,0 +1,10 @@
+Code: BDD-486
+Nom Complet: anna
+Sexe: jean
+Note Conception: 300
+Note Question 1: 250
+Note Question 2: 250
+Total points: 800 sur 800
+Moyenne: 100.0 sur 100
+Mention: Admis
+

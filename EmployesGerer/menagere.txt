@@ -1,0 +1,21 @@
+Code: MEN-735
+Nom: anna
+Prenom: guilllaume
+Sexe: fem
+Poste: allelu
+Nombre d'heures: 34 heures
+Prix par heure: 567.0 Gourdes
+
+Code: MEN-904
+Nom: lenz
+Prenom: nelson
+Sexe: masc
+Poste: menagere
+Nombre d'heures: 675 heures
+Prix par heure: 67.0 Gourdes
+Salaire Brut du menagere est: 45225.0 Gourdes
+l'augmentation salariale est: 46581.75 Gourdes
+on a ajoute: 1356.75 Gourdes
+une cotisation fixe (50 Gourdes) sur tous les menageres
+le salaire net du vendeur est: 46531.75 Gourdes
+

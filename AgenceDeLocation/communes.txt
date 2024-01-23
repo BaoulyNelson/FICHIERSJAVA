@@ -1,0 +1,8 @@
+Nom de la commune: delmas
+Nombre d'habitants: 765432 habitants
+Distance à l'agence: 567.0 kms
+
+Nom de la commune: portauprincce
+Nombre d'habitants: 78654 habitants
+Distance à l'agence: 435.0 kms
+

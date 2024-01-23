@@ -1,0 +1,30 @@
+Code: TECH-288
+Nom: andre
+Prenom: jean
+Sexe: masc
+Poste: tec
+Nombre d'heures: 90 heures
+Prix par heure: 876.0 Gourdes
+Années d'expérience: 6 ans
+Diplôme: Non
+Salaire Brut du technicien est: 78840.0 Gourdes
+l'augmentation salariale: 78840.0 Gourdes
+on a ajoute: 0.0 Gourdes
+une cotisation fixe (50 Gourdes) sur tous les techniciens
+le salaire net du vendeur est: 78790.0 Gourdes
+
+Code: TECH-576
+Nom: annia
+Prenom: michel
+Sexe: fem
+Poste: tech
+Nombre d'heures: 785 heures
+Prix par heure: 65.0 Gourdes
+Années d'expérience: 2 ans
+Diplôme: Oui
+Salaire Brut du technicien est: 51025.0 Gourdes
+l'augmentation salariale: 51025.0 Gourdes
+on a ajoute: 0.0 Gourdes
+une cotisation fixe (50 Gourdes) sur tous les techniciens
+le salaire net du vendeur est: 50975.0 Gourdes
+

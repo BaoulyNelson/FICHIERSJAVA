@@ -1,0 +1,12 @@
+Code: RES-755
+Nom Complet: sonia
+Sexe: ulysse
+Note Mise en Place: 250
+Note Question 1: 10
+Note Question 2: 200
+Note Question 3: 250
+Note Question 4: 278
+Total points: 988 sur 1150 points
+Moyenne: 85.91304347826086 sur 100
+Mention: Admis
+

@@ -1,0 +1,28 @@
+Code: VEND-556
+Nom: nelson
+Prenom: benito
+Sexe: masc
+Poste: vendeur
+Nombre d'heures: 876 heures
+Prix par heure: 88.0 Gourdes
+Années d'expérience: 4 ans
+Salaire Brut du vendeur est: 77088.0 Gourdes
+l'augmentation salariale: 81713.28 Gourdes
+on a ajoute: 4625.279999999999 Gourdes
+une cotisation fixe (50 Gourdes) sur tous les vendeurs
+le salaire net du vendeur est: 81663.28 Gourdes
+
+Code: VEND-239
+Nom: sonia
+Prenom: phillipe
+Sexe: fem
+Poste: vend
+Nombre d'heures: 8543 heures
+Prix par heure: 45.0 Gourdes
+Années d'expérience: 9 ans
+Salaire Brut du vendeur est: 384435.0 Gourdes
+l'augmentation salariale: 413267.625 Gourdes
+on a ajoute: 28832.625 Gourdes
+une cotisation fixe (50 Gourdes) sur tous les vendeurs
+le salaire net du vendeur est: 413217.625 Gourdes
+

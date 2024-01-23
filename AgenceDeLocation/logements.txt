@@ -1,0 +1,16 @@
+Commune: delmas
+Quartier: solio
+Adresse: nan24la
+Superficie: 89654.0 Km carree
+Loyer: 3456.0 GOURDES
+Type: t4
+Charges Forfaitaires: 90234.0 GOURDES
+
+Commune: 
+Quartier: morin
+Adresse: pap
+Superficie: 4356.0 Km carree
+Loyer: 7654.0 GOURDES
+Type: t2
+Charges Forfaitaires: 56789.0 GOURDES
+
